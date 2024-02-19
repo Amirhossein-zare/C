@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Simple Dictionary\bin\Debug\Simple Dictionary.exe.config
+C:\Users\Day 2 Day\Desktop\Simple Dictionary\bin\Debug\Simple Dictionary.exe
+C:\Users\Day 2 Day\Desktop\Simple Dictionary\bin\Debug\Simple Dictionary.pdb
+C:\Users\Day 2 Day\Desktop\Simple Dictionary\obj\Debug\Simple Dictionary.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Simple Dictionary\obj\Debug\Simple Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Simple Dictionary\obj\Debug\Simple Dictionary.exe
+C:\Users\Day 2 Day\Desktop\Simple Dictionary\obj\Debug\Simple Dictionary.pdb
