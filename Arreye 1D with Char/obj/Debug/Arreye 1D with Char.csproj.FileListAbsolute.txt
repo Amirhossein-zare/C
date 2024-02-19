@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Arreye 1D with Char\bin\Debug\Arreye 1D with Char.exe.config
+C:\Users\Day 2 Day\Desktop\Arreye 1D with Char\bin\Debug\Arreye 1D with Char.exe
+C:\Users\Day 2 Day\Desktop\Arreye 1D with Char\bin\Debug\Arreye 1D with Char.pdb
+C:\Users\Day 2 Day\Desktop\Arreye 1D with Char\obj\Debug\Arreye 1D with Char.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Arreye 1D with Char\obj\Debug\Arreye 1D with Char.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Arreye 1D with Char\obj\Debug\Arreye 1D with Char.exe
+C:\Users\Day 2 Day\Desktop\Arreye 1D with Char\obj\Debug\Arreye 1D with Char.pdb
