@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Simple Lottery\bin\Debug\Simple Lottery.exe.config
+C:\Users\Day 2 Day\Desktop\Simple Lottery\bin\Debug\Simple Lottery.exe
+C:\Users\Day 2 Day\Desktop\Simple Lottery\bin\Debug\Simple Lottery.pdb
+C:\Users\Day 2 Day\Desktop\Simple Lottery\obj\Debug\Simple Lottery.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Simple Lottery\obj\Debug\Simple Lottery.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Simple Lottery\obj\Debug\Simple Lottery.exe
+C:\Users\Day 2 Day\Desktop\Simple Lottery\obj\Debug\Simple Lottery.pdb
