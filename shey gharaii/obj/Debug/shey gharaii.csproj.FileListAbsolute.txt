@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\shey gharaii\bin\Debug\shey gharaii.exe.config
+C:\Users\Day 2 Day\Desktop\shey gharaii\bin\Debug\shey gharaii.exe
+C:\Users\Day 2 Day\Desktop\shey gharaii\bin\Debug\shey gharaii.pdb
+C:\Users\Day 2 Day\Desktop\shey gharaii\obj\Debug\shey gharaii.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\shey gharaii\obj\Debug\shey gharaii.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\shey gharaii\obj\Debug\shey gharaii.exe
+C:\Users\Day 2 Day\Desktop\shey gharaii\obj\Debug\shey gharaii.pdb
