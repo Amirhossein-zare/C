@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Property2\bin\Debug\Property2.exe.config
+C:\Users\Day 2 Day\Desktop\Property2\bin\Debug\Property2.exe
+C:\Users\Day 2 Day\Desktop\Property2\bin\Debug\Property2.pdb
+C:\Users\Day 2 Day\Desktop\Property2\obj\Debug\Property2.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Property2\obj\Debug\Property2.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Property2\obj\Debug\Property2.exe
+C:\Users\Day 2 Day\Desktop\Property2\obj\Debug\Property2.pdb
