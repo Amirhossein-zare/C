@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Count in ArrayList\bin\Debug\Count in ArrayList.exe.config
+C:\Users\Day 2 Day\Desktop\Count in ArrayList\bin\Debug\Count in ArrayList.exe
+C:\Users\Day 2 Day\Desktop\Count in ArrayList\bin\Debug\Count in ArrayList.pdb
+C:\Users\Day 2 Day\Desktop\Count in ArrayList\obj\Debug\Count in ArrayList.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Count in ArrayList\obj\Debug\Count in ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Count in ArrayList\obj\Debug\Count in ArrayList.exe
+C:\Users\Day 2 Day\Desktop\Count in ArrayList\obj\Debug\Count in ArrayList.pdb
