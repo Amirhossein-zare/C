@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Printing Things With Founction\bin\Debug\Printing Things With Founction.exe.config
+C:\Users\Day 2 Day\Desktop\Printing Things With Founction\bin\Debug\Printing Things With Founction.exe
+C:\Users\Day 2 Day\Desktop\Printing Things With Founction\bin\Debug\Printing Things With Founction.pdb
+C:\Users\Day 2 Day\Desktop\Printing Things With Founction\obj\Debug\Printing Things With Founction.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Printing Things With Founction\obj\Debug\Printing Things With Founction.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Printing Things With Founction\obj\Debug\Printing Things With Founction.exe
+C:\Users\Day 2 Day\Desktop\Printing Things With Founction\obj\Debug\Printing Things With Founction.pdb
