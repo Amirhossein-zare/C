@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{665B9CD4-FC9A-4BD5-A891-A6F9F454BE15}</ProjectGuid>
+    <ProjectGuid>{F9437FC9-0983-41BE-87F1-CEEBA510B3C9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Class_Random</RootNamespace>
     <AssemblyName>Class Random</AssemblyName>
