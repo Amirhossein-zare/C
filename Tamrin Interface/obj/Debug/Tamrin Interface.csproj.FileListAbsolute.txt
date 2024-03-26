@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Tamrin Interface\bin\Debug\Tamrin Interface.exe.config
+C:\Users\Day 2 Day\Desktop\Tamrin Interface\bin\Debug\Tamrin Interface.exe
+C:\Users\Day 2 Day\Desktop\Tamrin Interface\bin\Debug\Tamrin Interface.pdb
+C:\Users\Day 2 Day\Desktop\Tamrin Interface\obj\Debug\Tamrin Interface.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Tamrin Interface\obj\Debug\Tamrin Interface.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Tamrin Interface\obj\Debug\Tamrin Interface.exe
+C:\Users\Day 2 Day\Desktop\Tamrin Interface\obj\Debug\Tamrin Interface.pdb
