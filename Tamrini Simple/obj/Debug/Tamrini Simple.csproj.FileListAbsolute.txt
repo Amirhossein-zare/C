@@ -1,0 +1,7 @@
+C:\Users\Day 2 Day\Desktop\Tamrini Simple\bin\Debug\Tamrini Simple.exe.config
+C:\Users\Day 2 Day\Desktop\Tamrini Simple\bin\Debug\Tamrini Simple.exe
+C:\Users\Day 2 Day\Desktop\Tamrini Simple\bin\Debug\Tamrini Simple.pdb
+C:\Users\Day 2 Day\Desktop\Tamrini Simple\obj\Debug\Tamrini Simple.csproj.AssemblyReference.cache
+C:\Users\Day 2 Day\Desktop\Tamrini Simple\obj\Debug\Tamrini Simple.csproj.CoreCompileInputs.cache
+C:\Users\Day 2 Day\Desktop\Tamrini Simple\obj\Debug\Tamrini Simple.exe
+C:\Users\Day 2 Day\Desktop\Tamrini Simple\obj\Debug\Tamrini Simple.pdb
